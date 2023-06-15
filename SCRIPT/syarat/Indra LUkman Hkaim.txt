@@ -1,0 +1,22 @@
+1. Tipe input yang dibutuhkan dalam antar lain adalah
+
+ * Teks atau String untuk menyimpan nama, jenis kelamin, tempat lahir, serta pertanyaan
+
+* Integer untuk menyimpan NIK. 
+
+* Date untuk menyimpan tanggal lahir
+
+Kemudian untuk elemen yang dibutuhkan antara lain adalah input,  radio button atau select,  serta textarea 
+
+
+
+
+
+2. Untuk membuat memnu aplikasi tidak memerlukan input dari user namun menggunakan elemen navigasi. Contohnya pada html dapat menggunakan href untuk navigasi menu 
+
+
+
+
+1. Untuk mengeksuekusi source code PHP memerlukan tools apache sebagai server dan mysql sebagai database. Kemudian dapat mengeksekusi dengan mengakses lokasi path index.php berada dengan web browser.
+
+Kita dapat memanggil menggunakan parameter dengan cara kita harus men
