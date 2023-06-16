@@ -73,7 +73,8 @@ include "./koneksi.php";
                 <td>".$r_tampil_anggota["ipk"]."</td>
                 <td>".$r_tampil_anggota["pilihan"]."</td>
                 <td>".$r_tampil_anggota["status"]."</td>
-                <td>".$r_tampil_anggota["syarat"]."</td>
+                <td>"."<a target=\"_blank\" href=\""."syarat/".$r_tampil_anggota["syarat"]."\">".$r_tampil_anggota["syarat"]."</a>".
+                "</td>
                 </tr>" ;
             }
         }
